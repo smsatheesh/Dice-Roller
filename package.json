@@ -1,0 +1,24 @@
+{
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "description": "This is dice roller project made by S.m. Satheesh",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smsatheesh/Dice-Roller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smsatheesh/Dice-Roller/issues"
+  },
+  "homepage": "https://github.com/smsatheesh/Dice-Roller#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
