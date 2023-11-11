@@ -12,6 +12,7 @@ let dice = document.querySelectorAll( "img" );
 
 function onRoll() {
 
+    // document.getElementById("fav").setAttribute("href", "favicon.ico");
     dice.forEach( (ele) => {
 
         ele.classList.add("shake");
